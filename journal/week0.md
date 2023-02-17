@@ -16,5 +16,24 @@ tasks:
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
       ```
-      ![CLI CONFIG](https://user-images.githubusercontent.com/124487792/219653554-115ac51b-41a1-4f6c-a23f-b2147d418eab.png)
+
+###  I created a lucid chart for a logical diagram 
+ !.[Billing alarm image].(assets/logical%20diagram.png)
+ Here is the [link for the logical diagram](https://lucid.app/lucidchart/07998726-1ecc-4eba-bbde-b847efbdfa4d/edit?viewport_loc=-1831%2C320%2C3347%2C1448%2C0_0&invitationId=inv_6793fffa-ed59-4092-9c91-63c57fc69b3b)
+ 
+
+       ##**Home work challenges**
+       I created a billing alarm using the was console
+       !.[Billing alarm image].(assets/Billing%20alarm.png)
+       I used Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a EC2 health issue so I  created an health check by the console
+       !.[Checking Health check ].(assets/health%20check.png)
+      
+       
+       
+       
+       
+       
+      
+      
+      
      
