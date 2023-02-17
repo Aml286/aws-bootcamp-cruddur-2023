@@ -16,6 +16,7 @@ tasks:
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
   ```
+  ![gitpod aws cli installed image](assets/aws_cli.png)
 
 ##  I created a lucid chart for a logical diagram 
 ![logical digram image](assets/logical%20diagram.png)
