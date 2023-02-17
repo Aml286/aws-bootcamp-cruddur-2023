@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 ## required homework/tasks
-## install aws cli , I did it but I had some issuess in aws security as I put some information like the secret access key and region
+## install aws cli , I did it
 I am providing the instruction I used for my configuration
 I did follow these instructions
 
