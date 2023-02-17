@@ -17,6 +17,10 @@ tasks:
       cd $THEIA_WORKSPACE_ROOT
   ```
   ![gitpod aws cli installed image](assets/aws_cli.png)
+## Generate AWS Credentials	
+I tried several time to update access key but I get emails from aws that my account publicly compromised 
+and I should delete these keys or my account will be suspended
+
 
 ##  I created a lucid chart for a logical diagram 
 ![logical digram image](assets/logical%20diagram.png)
