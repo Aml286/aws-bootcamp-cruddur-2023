@@ -18,6 +18,8 @@ tasks:
   ```
 
 ##  I created a lucid chart for a logical diagram 
+![logical digram image](assets/logical%20diagram.png)
+
  Here is the [link for the logical diagram](https://lucid.app/lucidchart/07998726-1ecc-4eba-bbde-b847efbdfa4d/edit?viewport_loc=-1831%2C320%2C3347%2C1448%2C0_0&invitationId=inv_6793fffa-ed59-4092-9c91-63c57fc69b3b)
  
   ## I used the aws cloud shell and here is an image from it
