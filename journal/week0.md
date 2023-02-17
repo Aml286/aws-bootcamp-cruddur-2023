@@ -21,8 +21,8 @@ tasks:
  Here is the [link for the logical diagram](https://lucid.app/lucidchart/07998726-1ecc-4eba-bbde-b847efbdfa4d/edit?viewport_loc=-1831%2C320%2C3347%2C1448%2C0_0&invitationId=inv_6793fffa-ed59-4092-9c91-63c57fc69b3b)
  
   ## I used the aws cloud shell and here is an image from it
-       !.[Checking Health check ].(assets/using%20cloud%20shell.png)
-       ## I created more than one  budget and here is a screenshot of them
+  ![Checking Health check].(assets/healthcheck.png)
+  ## I created more than one  budget and here is a screenshot of them
        !.[created budget image].(assets/Setting%20budget.png)
        
        
