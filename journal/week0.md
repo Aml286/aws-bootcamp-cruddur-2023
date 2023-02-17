@@ -35,7 +35,10 @@ tasks:
        
       ##I used Use EventBridge to hookup Health Dashboard to SNS and send notification when there is a EC2 health issue so I  created an health check by the console
        !.[EventBridge Checking Health check ].(assets/health%20check.png)
-       ## 
+       ## I Open a support ticket and request for increasing  Container Services (ECS)
+       here is the image of the ticket 
+        !.[Support ticket image].(assets/support%20ticket.png)
+       
        
        
       
