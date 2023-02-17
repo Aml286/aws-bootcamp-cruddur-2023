@@ -26,7 +26,6 @@ tasks:
        !.[created budget image].(assets/Setting%20budget.png)
        
        
- 
 
        ##**Home work challenges**
        
